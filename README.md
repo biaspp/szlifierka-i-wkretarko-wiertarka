@@ -1,5 +1,5 @@
 # szlifierka i wkretarko wiertarka
-program w języku C++, który definiuje trzy klasy: podstawową klasę Urządzenie oraz dwie pochodne klasy SzlifierkaKatowa i WiertarkoWkretarka.
+Program w języku C++, który definiuje trzy klasy: podstawową klasę Urządzenie oraz dwie pochodne klasy SzlifierkaKatowa i WiertarkoWkretarka.
 
 Klasa Urządzenie posiada pola firma i obroty oraz metody do zwracania tych wartości oraz wyświetlania opisu urządzenia. Klasa SzlifierkaKatowa i WiertarkoWkretarka dziedziczą po klasie Urządzenie i dodają własne pola oraz metody.
 
